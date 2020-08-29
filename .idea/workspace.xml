@@ -20,146 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfd15b8b-9b27-457a-be8f-a9846f7cb992" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guzzle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Utils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/AggregateException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/CancellationException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Coroutine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/EachPromise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Promise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectionException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/AppendStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/BufferStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/CachingStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/DroppingStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/FnStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/InflateStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LimitStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MessageTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MultipartStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/NoSeekStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/PumpStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Response.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Rfc7230.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/ServerRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Stream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamWrapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UploadedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Uri.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UriNormalizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UriResolver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/src/ClientExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/src/ClientInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/src/NetworkExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-client/src/RequestExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/src/getallheaders.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wpu-rest-server/application/controllers/api/Mahasiswa.php" beforeDir="false" afterPath="$PROJECT_DIR$/../wpu-rest-server/application/controllers/api/Mahasiswa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wpu-movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wpu-movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guzzle.php" beforeDir="false" afterPath="$PROJECT_DIR$/guzzle.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1gitmQPWlFljrWVV739ApCxCeZq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -175,6 +62,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -185,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598609398273</updated>
       <workItem from="1598609399467" duration="355000" />
+      <workItem from="1598661727730" duration="2691000" />
+      <workItem from="1598664438875" duration="599000" />
     </task>
     <servers />
   </component>
@@ -201,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
